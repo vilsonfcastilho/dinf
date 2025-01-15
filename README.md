@@ -44,22 +44,22 @@ Ensure you have [Rust](https://www.rust-lang.org/) installed. If not, install it
 Run the tool with a folder path as an argument:
 
 ```bash
-  $ cargo run {{path}}
+$ cargo run {{path}}
 ```
 
 Example:
 
 ```bash
-  $ cargo run /path/to/folder
+$ cargo run /path/to/folder
 ```
 
 Output:
 
 ```bash
-  Status ✨
-  folders: 5
-  files: 10
-  size: 1.45 MB
+Status ✨
+folders: 5
+files: 10
+size: 1.45 MB
 ```
 
 ## 🧑‍💻 How It Works
